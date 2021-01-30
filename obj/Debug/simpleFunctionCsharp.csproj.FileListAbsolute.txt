@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\02-SimpleFunctionCsharp\stuff\simpleFunctionCsharp\bin\Debug\simpleFunctionCsharp.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\02-SimpleFunctionCsharp\stuff\simpleFunctionCsharp\bin\Debug\simpleFunctionCsharp.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\02-SimpleFunctionCsharp\stuff\simpleFunctionCsharp\bin\Debug\simpleFunctionCsharp.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\02-SimpleFunctionCsharp\stuff\simpleFunctionCsharp\obj\Debug\simpleFunctionCsharp.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\02-SimpleFunctionCsharp\stuff\simpleFunctionCsharp\obj\Debug\simpleFunctionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\02-SimpleFunctionCsharp\stuff\simpleFunctionCsharp\obj\Debug\simpleFunctionCsharp.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\02-SimpleFunctionCsharp\stuff\simpleFunctionCsharp\obj\Debug\simpleFunctionCsharp.pdb
